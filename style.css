@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f9f9;
+    background-color: #bbc5db;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -28,7 +28,7 @@ body {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     font-size: 18px;
-    color: #333;
+    color: #142ea0;
   }
   
   #search-button {
